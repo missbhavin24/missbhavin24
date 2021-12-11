@@ -1,0 +1,35 @@
+[account]
+my_number="18016006839"
+iccid="8901260271739430414F"
+imsi="310260273943041"
+imei="359785281350192"
+
+[wifi]
+wifi_name="Franklin T9 0192"
+wifi_password="b75b471e"
+mac_address="F4:63:49:77:21:69"
+encryption="WPA2 AES"
+wifi_devices="5"
+max_wifi_devices="10"
+broadcast_network_name="Show"
+
+[firmware]
+software_version="R717F21.FR.2602"
+firmware_version="R717F21.FR.M2602"
+build_date="Apr 15 2021"
+web_app_version="R717F21.FR.A2602"
+bootloader_version="R717F21.FR.B2602"
+
+[device]
+model="Franklin R717"
+manager="mobile.hotspot"
+hardware_revision="P1"
+power_state="Online"
+current_voltage="4.344V"
+battery_charge_level="99%"
+battery_status="Charging"
+
+[wwan]
+ip_address="29.17.117.167, 2607:fb90:6c86:3a1:301e:bc72:92b8:e239"
+lifetime_transferred="4.99 GB"
+
